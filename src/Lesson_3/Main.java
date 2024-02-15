@@ -23,6 +23,7 @@ public class Main {
         TaskNine();
         TaskTen(len, initalValue);
 
+
     }
 
     public static boolean TaskOne(int a, int b) {
